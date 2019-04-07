@@ -1,0 +1,43 @@
+body {
+	background-color: #a7bbb5;
+	color: #9c27b0;
+}
+
+h1 {font-size: 80px;
+	color: #ab1b35;
+	text-align: center;
+
+}
+h2 {font-size: 40px;
+	font-family: Arial;
+	color: #0600ff;}
+
+p {font-style: italic;
+	margin: 20px;}
+
+div {width: 60%;
+	margin: auto;	
+	box-shadow: 10px 1px 10px 1px rgba(0,0,0,0.3);
+	padding: 50px;
+		}
+img {max-width: 100%;}
+
+height: auto;}
+.green {color: red;
+}
+h2 {text-decoration: underline; }
+a {
+	font-size: 20px;
+	color:tomato;
+	text-decoration: none;
+
+}
+a:hover {color: green;}
+/*a:visited {color: yellow;}*/
+a:active {color: black;}
+
+ul {list-style-type: square;
+	}
+
+ol {
+	list-style-image: url("img/marker1.gif"); }
